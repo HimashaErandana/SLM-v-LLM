@@ -1,4 +1,3 @@
-```markdown
 # SLM vs LLM: LoRA fine-tuning comparison
 
 A small research project testing whether LoRA fine-tuning lets a small language model (SLM) close the performance gap with a large language model (LLM) on a narrow classification task.
@@ -103,4 +102,3 @@ Results are saved to `RESULTS_DIR` (configurable in the config cell) as `slm_sum
 ## License
 
 Add a license of your choice (e.g. MIT) if you intend to share this publicly.
-```
